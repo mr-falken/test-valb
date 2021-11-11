@@ -8,3 +8,4 @@ bcdee341ds3  mario            w
 bcdee341     mario            w
 mario       rossi      w
 {'stderr_lines': [], 'changed': True, 'end': '2021-11-11 13:54:33.402044', 'stdout': 'itacvnej3828    giovanni    w ', 'cmd': 'printf "%-15s %-11s %-2s" "itacvnej3828" "giovanni" "w"', 'rc': 0, 'failed': False, 'stderr': '', 'delta': '0:00:00.004704', 'stdout_lines': ['itacvnej3828    giovanni    w '], 'start': '2021-11-11 13:54:33.397340'}
+itacvnej3828    giovanni    w 

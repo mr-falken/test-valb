@@ -6,3 +6,4 @@ bcdeed       mario            w
 bcd1         mario            w
 bcdee341ds3  mario            w
 bcdee341     mario            w
+mario       rossi      w
